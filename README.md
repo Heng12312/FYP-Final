@@ -4,6 +4,7 @@
 This repository contains the submission code for my Final Year Project.
 
 ## Contents
+The Report_ of my FYP emphasizes the focus of my work.
 1. **EDA**: This file contains all the source code for data preparation and preprocessing for all the 3 datasets. Also including the Baseline model for RF, Gaussian NB, DT, KNN, and SVM.
 2. **Dataset1**: This file contains the work on dataset 1. 
 3. **Dataset2**: This file contains the work on dataset 2.
